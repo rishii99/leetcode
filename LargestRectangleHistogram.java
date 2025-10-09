@@ -33,3 +33,4 @@ public class LargestRectangleHistogram {
         System.out.println("Largest Rectangle Area: " + largestRectangleArea(heights));
     }
 }
+
